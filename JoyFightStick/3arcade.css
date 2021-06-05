@@ -29,6 +29,7 @@ span.button.b {
 span.bumper.right {
     background: #d62ad8;
 }
+.fight-stick .bumper.pressed,
 .fight-stick .button.pressed {
     transform: translateY(5px);
     -webkit-filter: brightness(4);
