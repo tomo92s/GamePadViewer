@@ -1,0 +1,35 @@
+.controller.fight-stick {
+    background: url(http://www.zak123.com/u/base.png) center no-repeat;
+    background-position: 245px 55px;
+}
+.fight-stick .arrows {
+	display: none;
+}
+.fight-stick .quadrant{
+	display: none;
+}
+.fight-stick .bumper.left{
+	display: none;
+}
+.fight-stick .trigger-button.left{
+	display: none;
+}
+span.button.a {
+    background: #64d458;
+}
+span.button.x {
+    background: #1399f2;
+}
+span.button.y {
+    background: #dea810;
+}
+span.button.b {
+    background: #a6211a;
+}
+span.bumper.right {
+    background: #d62ad8;
+}
+.fight-stick .button.pressed {
+    transform: translateY(5px);
+    -webkit-filter: brightness(4);
+}
