@@ -1,0 +1,36 @@
+.controller.fight-stick {
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/JoyFightStick/images/base1.png) center no-repeat;
+    background-position: 221px 37px;
+}
+.fight-stick .arrows {
+	display: none;
+}
+.fight-stick .quadrant{
+	display: none;
+}
+.fight-stick .bumper.left{
+	display: none;
+}
+.fight-stick .trigger-button.left{
+	display: none;
+}
+span.button.a {
+    background: #64d458;
+}
+span.button.x {
+    background: #a6211a;
+}
+span.button.y {
+    background: #dea810;
+}
+span.button.b {
+    background: #d62ad8;
+}
+span.bumper.right {
+    background: #1399f2;
+}
+.fight-stick .bumper.pressed,
+.fight-stick .button.pressed {
+    transform: translateY(5px);
+    -webkit-filter: brightness(4);
+}
