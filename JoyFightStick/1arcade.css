@@ -15,7 +15,7 @@
 	display: none;
 }
 span.button.a {
-    background: #64d458;
+    background: #1399f2;
 }
 span.button.x {
     background: #a6211a;
@@ -27,7 +27,7 @@ span.button.b {
     background: #d62ad8;
 }
 span.bumper.right {
-    background: #1399f2;
+    background: #64d458;
 }
 .fight-stick .bumper.pressed,
 .fight-stick .button.pressed {
