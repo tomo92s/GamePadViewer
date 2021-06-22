@@ -1,36 +1,124 @@
-.controller.fight-stick {
+.controller.gc {
     background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/NintendoDs/images/base1.png) center no-repeat;
-    background-position: 221px 37px;
+    background-position: 0;
 }
-.fight-stick .arrows {
-	display: none;
+
+.controller.gc {
+    height: 837px !important;
+    width: 835px !important;
 }
-.fight-stick .quadrant{
-	display: none;
+
+.sticks {
+    display: none;
 }
-.fight-stick .bumper.left{
-	display: none;
+
+.gc .a {
+    background-position: 0 0;
+    width: 44px !important;
+    height: 44px !important;
+    bottom: -199px !important;
+    left: 30px !important;
+    background: #151515d4 !important;
+    border-radius: 1000px !important;
 }
-.fight-stick .trigger-button.left{
-	display: none;
-}
-span.button.a {
-    background: #1399f2;
-}
-span.button.x {
-    background: #a6211a;
-}
-span.button.y {
-    background: #dea810;
-}
+
 span.button.b {
-    background: #d62ad8;
+    background-position: 0 0;
+    width: 44px !important;
+    height: 44px !important;
+    bottom: -156px !important;
+    left: 73px !important;
+    background: #151515d4 !important;
+    border-radius: 1000px !important;
 }
+
 span.bumper.right {
-    background: #64d458;
+    display: none;
 }
-.fight-stick .bumper.pressed,
-.fight-stick .button.pressed {
-    transform: translateY(5px);
-    -webkit-filter: brightness(4);
+
+span.trigger.left {
+    background: #151515d4 !important;
+    position: absolute;
+    width: 99px !important;
+    height: 55px !important;
+    bottom: -351px !important;
+    left: -98px !important;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    float: none !important;
+}
+
+span.trigger.right {
+    background: #151515d4 !important;
+    position: absolute;
+    width: 99px !important;
+    height: 55px !important;
+    bottom: -351px !important;
+    left: 577px !important;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    float: none !important;
+}
+
+span.button.x {
+    background-position: 0 0;
+    width: 44px !important;
+    height: 44px !important;
+    background: #151515d4 !important;
+    border-radius: 1000px !important;
+    top: 342px;
+    right: 257px;
+}
+
+span.button.y {
+    background-position: 0 0;
+    width: 44px !important;
+    height: 44px !important;
+    background: #151515d4 !important;
+    border-radius: 1000px !important;
+    top: 298px;
+    left: 30px;
+}
+
+.gc .dpad {
+    position: absolute !important;
+    width: 109px !important;
+    height: 110px !important;
+    top: 534px !important;
+    left: 42px !important;
+}
+
+.gc .face.up {
+    left: 33px !important;
+    top: -5px;
+    background-position: -2px -1px;
+}
+
+.gc .face.down {
+    left: 31px !important;;
+    bottom: 2px !important;
+    background-position: -46px 0;
+}
+
+.gc .face.left {
+    top: 32px !important;
+    left: -2px !important;
+    background-position: -93px 0;
+    background-size: 219px;
+}
+
+.gc .face.right {
+    top: 32px !important;
+    right: 0px !important;
+    background-position: -159px 0;
+}
+
+.gc .face.left, .gc .face.right {
+    width: 59px;
+    height: 41px;
+}
+
+.gc .face.up, .gc .face.down {
+    width: 39px;
+    height: 65px;
 }
