@@ -18,3 +18,10 @@ PS4 Examples
 
 ![Captura](https://user-images.githubusercontent.com/12131059/123358710-8ec01980-d531-11eb-925e-0dd1700f9c3f.JPG)
 
+Xbox Examples
+
+[Gamepadviewer Red Black Custom Style 1](https://gamepadviewer.com/?p=1&s=0&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Fyellowgreen.css%3Falt%3Dmedia%26token%3D053caef6-ed50-4b09-bede-887ae0fdf67d)
+
+![Captura](https://user-images.githubusercontent.com/12131059/123363347-e497c000-d537-11eb-9fad-6934c7f391b3.JPG)
+
+
