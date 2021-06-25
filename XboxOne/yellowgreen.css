@@ -1,0 +1,8 @@
+div#gamepad-0 {
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/XboxOne/images/greenyellow.png) center no-repeat;
+    background-size: 100%;
+}
+
+span.stick.right {
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/XboxOne/images/stickgreenyellow.png)
+}
