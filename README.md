@@ -26,6 +26,7 @@ Xbox Examples
 
 [Gamepadviewer Red Black Custom Style 2](https://gamepadviewer.com/?p=1&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Fblue.css%3Falt%3Dmedia%26token%3D1f0f0f9e-5e16-4d20-a5d0-dd865d418dcf)
 
-![Captura](![image](https://user-images.githubusercontent.com/12131059/125710540-c44b1fed-61db-4a89-b295-52f6570a1f69.png))
+![Captura](https://user-images.githubusercontent.com/12131059/125710599-158d4c29-f06a-49ba-9367-154f7c1a935d.JPG)
+
 
 
