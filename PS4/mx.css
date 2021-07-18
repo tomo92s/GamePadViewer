@@ -4,5 +4,9 @@ div#gamepad-0 {
 }
 
 .ds4 .stick.left{
-background-image: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/PS4/images/sticksgreen.png);
+    position: absolute;
+    background-image: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/PS4/images/sticksgreen.png);
+    height: 6em;
+    width: 6em;
+    background-size: 18em;
 }
