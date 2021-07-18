@@ -32,5 +32,10 @@ Xbox Examples
 
 ![Captura](https://user-images.githubusercontent.com/12131059/125710599-158d4c29-f06a-49ba-9367-154f7c1a935d.JPG)
 
+[Gamepadviewer Red Black Custom Style 3 MX](https://gamepadviewer.com/?p=1&s=0&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Fxboxmx.css%3Falt%3Dmedia%26token%3Dee94245c-1ed0-4b97-adb0-e008314b4208)
+
+![Captura](https://user-images.githubusercontent.com/12131059/126085827-c5d8c532-a742-4d42-b045-fbea0d8a212a.JPG)
+
+
 
 
