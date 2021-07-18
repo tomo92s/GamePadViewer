@@ -11,3 +11,12 @@ div#gamepad-0 {
     height: 83px;
     width: 83px;
 }
+
+.xbox .stick.left {
+    position: absolute;
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/XboxOne/images/stickgreenleft.png);
+    background-position: -85px 0;
+    background-size: 168px;
+    height: 83px;
+    width: 83px;
+}
