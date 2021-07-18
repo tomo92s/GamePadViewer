@@ -1,0 +1,13 @@
+div#gamepad-0 {
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/XboxOne/images/mx.png) center no-repeat;
+    background-size: 100%;
+}
+
+.xbox .stick {
+    position: absolute;
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/XboxOne/images/stickredright.png);
+    background-position: -85px 0;
+    background-size: 168px;
+    height: 83px;
+    width: 83px;
+}
