@@ -10,3 +10,8 @@ div#gamepad-0 {
     width: 6em;
     background-size: 18em;
 }
+
+.ds4 .face {
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/PS4/images/dpadgreen.png);
+    position: absolute;
+}
