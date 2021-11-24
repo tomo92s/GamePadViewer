@@ -41,6 +41,13 @@ Xbox Examples
 
 ![Captura](https://user-images.githubusercontent.com/12131059/126085827-c5d8c532-a742-4d42-b045-fbea0d8a212a.JPG)
 
+NES Examples
+
+[Gamepadviewer Family Computer Red](https://gamepadviewer.com/?p=1&s=3&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Ffamilynes.css%3Falt%3Dmedia%26token%3Dcfca3cee-6f8f-408b-8ab7-27e74816f03f)
+
+![image](https://user-images.githubusercontent.com/12131059/143298900-74ded6de-aa66-4fe1-98f6-45778a38d43f.png)
+
+
 
 
 
