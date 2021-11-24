@@ -37,3 +37,10 @@ span.back {
 .quadrant.p0 {
     display: none;
 }
+
+span.button.a.pressed, 
+span.button.b.pressed,
+span.start.pressed,
+span.back.pressed{
+    margin: 0 !important;
+}
