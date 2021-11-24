@@ -1,0 +1,39 @@
+div#gamepad-0 {
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/NES/images/family.png);
+}
+
+span.button.b {
+    position: absolute;
+    left: -0.6em;
+    top: 0.3em;
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/NES/images/familybuttons.png);
+}
+
+span.button.a {
+    position: absolute;
+    top: 0.3em;
+    right: 0em;
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/NES/images/familybuttons.png);
+}
+
+span.start {
+    position: relative;
+    top: 0.4em;
+    left: -0.1em;
+}
+
+span.back {
+    position: relative;
+    top: 0.4em;
+    left: 0.15em;
+}
+
+.nes .dpad {
+    position: absolute;
+    top: 159px;
+    left: 57px;
+}
+
+.quadrant.p0 {
+    display: none;
+}
