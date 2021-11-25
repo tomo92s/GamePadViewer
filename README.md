@@ -25,7 +25,7 @@ PS2 Examples
 
 [Gamepadviewer Play Station 2 Black](https://gamepadviewer.com/?p=1&s=2&smeter=1&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Fps2.css%3Falt%3Dmedia%26token%3Da06db894-c91f-4df1-9618-7c9477060f3c)
 
-![image](![image](https://user-images.githubusercontent.com/12131059/143501744-bb59cb39-8bf3-44ae-93f5-123b55e20b60.png))
+![image](https://user-images.githubusercontent.com/12131059/143501815-c7d76c9d-2b79-4df8-a603-52dc839c6eb4.png)
 
 PS4 Examples
 
