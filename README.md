@@ -1,5 +1,35 @@
 # GamePadViewer
+
 Custom Gamepad Viewer Css
+
+👦 👦 Hi I'm Sam along with my brother Erick, we will be broadcasting live from Guadalajara, Jalisco, Mexico. We are engineers, amateur streamers and we will be sharing with you a different videogame every day.
+
+🙌 We don't consider ourselves professionals, we just want to meet people from other parts of the world and share this passion for videogames, among other hobbies, like drawing, cooking, etc, well, actually we like to do everything.
+
+💳 Direct donations: https://streamelements.com/tevacarnal/tip
+💸 Dlive 1% devolución de dinero en su donación: https://dlive.tv/?ref=tevacarnal
+
+🎥 Follow us and don't miss another chapter:
+🔴 Youtube: https://www.youtube.com/channel/UCbQ1JI_7PumNrW9iZkVR-yw
+🟠 Booyah: https://booyah.live/channels/75566926
+🟡 Dlive: https://dlive.tv/TeVaCarnal
+⚪ Dailymotion: https://www.dailymotion.com/tevacarnal
+🟢 Trovo: https://trovo.live/TeVaCarnal
+🔵 Facebook: https://www.facebook.com/TeVaCarnal
+🟣 Twitch: https://www.twitch.tv/tevacarnal
+⚫ Steam: https://steamcommunity.com/broadcast/watch/tevacarnal
+
+😏 Find more fun here:
+🟧 Kwai: https://s.kwai.app/s/ehfxdqZ6
+⬜ Tiktok: https://vm.tiktok.com/TeVaCarnal
+🟨 Instagram: http://instagram.com/TeVaCarnal
+🟦 Twitter: https://twitter.com/TeVaCarnal
+🟪 Discord: https://discord.gg/8hdFdYAj4F
+
+📆 Broadcast schedules:
+⌚ Monday to Friday de 20:00 pm a 01:00 am
+🕰️ Random weekend
+🌐 Guadalajara Time Zone, JAL, MX (GMT-6)
 
 NES Examples
 
