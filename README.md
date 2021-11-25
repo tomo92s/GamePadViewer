@@ -1,6 +1,12 @@
 # GamePadViewer
 Custom Gamepad Viewer Css
 
+NES Examples
+
+[Gamepadviewer Family Computer Red](https://gamepadviewer.com/?p=1&s=3&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Ffamilynes.css%3Falt%3Dmedia%26token%3Dcfca3cee-6f8f-408b-8ab7-27e74816f03f)
+
+![image](https://user-images.githubusercontent.com/12131059/143298900-74ded6de-aa66-4fe1-98f6-45778a38d43f.png)
+
 JoyStick Examples
 
 [Gamepadviewer Custom Style 1](http://gamepadviewer.com/?p=1&s=7&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2F1arcade.css%3Falt%3Dmedia%26token%3D1d4b50cc-8f77-46fc-8805-77557e086b7c&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2215%22%2C%22disabled%22%3Afalse%2C%22choiceOperand%22%3A%22%2B%22%2C%22choiceType%22%3A%22axes%22%2C%22choice%22%3A%220%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2214%22%2C%22disabled%22%3Afalse%2C%22choiceOperand%22%3A%22-%22%2C%22choiceType%22%3A%22axes%22%2C%22choice%22%3A%220%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2213%22%2C%22disabled%22%3Afalse%2C%22choiceOperand%22%3A%22%2B%22%2C%22choiceType%22%3A%22axes%22%2C%22choice%22%3A%221%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%2212%22%2C%22disabled%22%3Afalse%2C%22choiceOperand%22%3A%22-%22%2C%22choiceType%22%3A%22axes%22%2C%22choice%22%3A%221%22%7D%5D%7D)
@@ -15,7 +21,11 @@ JoyStick Examples
 
 ![Captura](https://user-images.githubusercontent.com/12131059/137566220-61e598ac-ebb4-4637-aae8-26e36c2498db.png)
 
+PS2 Examples
 
+[Gamepadviewer Play Station 2 Black](https://gamepadviewer.com/?p=1&s=2&smeter=1&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Fps2.css%3Falt%3Dmedia%26token%3Da06db894-c91f-4df1-9618-7c9477060f3c)
+
+![image](![image](https://user-images.githubusercontent.com/12131059/143501744-bb59cb39-8bf3-44ae-93f5-123b55e20b60.png))
 
 PS4 Examples
 
@@ -40,13 +50,6 @@ Xbox Examples
 [Gamepadviewer Red Black Custom Style 3 MX](https://gamepadviewer.com/?p=1&s=0&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Fxboxmx.css%3Falt%3Dmedia%26token%3Dee94245c-1ed0-4b97-adb0-e008314b4208)
 
 ![Captura](https://user-images.githubusercontent.com/12131059/126085827-c5d8c532-a742-4d42-b045-fbea0d8a212a.JPG)
-
-NES Examples
-
-[Gamepadviewer Family Computer Red](https://gamepadviewer.com/?p=1&s=3&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Ffamilynes.css%3Falt%3Dmedia%26token%3Dcfca3cee-6f8f-408b-8ab7-27e74816f03f)
-
-![image](https://user-images.githubusercontent.com/12131059/143298900-74ded6de-aa66-4fe1-98f6-45778a38d43f.png)
-
 
 
 
