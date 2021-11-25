@@ -1,0 +1,8 @@
+div#gamepad-0 {
+    background: url(https://raw.githubusercontent.com/samuelzyx/GamePadViewer/main/PS2/images/base.png) center no-repeat;
+    background-size: 100%;
+}
+
+.quadrant.p0 {
+    display: none;
+}
