@@ -55,13 +55,13 @@ PS1 Examples
 
 [Gamepadviewer Play Station 1 White](https://gamepadviewer.com/?p=1&s=10&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Fps1.css%3Falt%3Dmedia%26token%3D1477b00c-983b-45c7-bd31-d879da3beaee)
 
-![image](https://user-images.githubusercontent.com/12131059/143724684-a20aaf99-7a6c-41e6-884c-e7e86e9ecd2a.png)
+![image](https://user-images.githubusercontent.com/12131059/143724763-093ba3b1-85a7-4b77-9960-03ac5365a5c9.png)
 
 PS2 Examples
 
 [Gamepadviewer Play Station 2 Black](https://gamepadviewer.com/?p=1&s=2&smeter=1&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Fps2.css%3Falt%3Dmedia%26token%3Da06db894-c91f-4df1-9618-7c9477060f3c)
 
-![image](https://user-images.githubusercontent.com/12131059/143501815-c7d76c9d-2b79-4df8-a603-52dc839c6eb4.png)
+![image](https://user-images.githubusercontent.com/12131059/143724771-a54e3631-5d49-4917-bf1d-60ada92f728f.png)
 
 PS4 Examples
 
