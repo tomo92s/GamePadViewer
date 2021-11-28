@@ -2,6 +2,13 @@
 
 Custom Gamepad Viewer Css
 
+Adding custom pads to this tool "GAMEPADVIEWER"
+https://gamepadviewer.com/#menu
+
+
+https://www.youtube.com/watch?v=_jdupqY9oxM
+
+Who I Am?
 👦 👦 Hi I'm Sam along with my brother Erick, we will be broadcasting live from Guadalajara, Jalisco, Mexico. We are engineers, amateur streamers and we will be sharing with you a different videogame every day.
 
 🙌 We don't consider ourselves professionals, we just want to meet people from other parts of the world and share this passion for videogames, among other hobbies, like drawing, cooking, etc, well, actually we like to do everything.
