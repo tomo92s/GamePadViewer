@@ -51,6 +51,12 @@ JoyStick Examples
 
 ![Captura](https://user-images.githubusercontent.com/12131059/137566220-61e598ac-ebb4-4637-aae8-26e36c2498db.png)
 
+PS1 Examples
+
+[Gamepadviewer Play Station 1 White](https://gamepadviewer.com/?p=1&s=10&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Fps1.css%3Falt%3Dmedia%26token%3D1477b00c-983b-45c7-bd31-d879da3beaee)
+
+![image](https://user-images.githubusercontent.com/12131059/143724684-a20aaf99-7a6c-41e6-884c-e7e86e9ecd2a.png)
+
 PS2 Examples
 
 [Gamepadviewer Play Station 2 Black](https://gamepadviewer.com/?p=1&s=2&smeter=1&editcss=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fgamepad-32bc5.appspot.com%2Fo%2Fps2.css%3Falt%3Dmedia%26token%3Da06db894-c91f-4df1-9618-7c9477060f3c)
